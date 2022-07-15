@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @29peter
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning python
